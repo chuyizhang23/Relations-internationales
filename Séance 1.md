@@ -72,3 +72,25 @@ Le système d’États que nous connaissons aujourd’hui est le résultat de la
 Le système international est un système d'anarchie ; il n'y a pas de gouvernement mondial au-dessus des États. Ce système est formé d'États et d'acteurs transnationaux, comme les entreprises multinationales, les organisations non gouvernementales (ONG) et les organisations internationales (OI). Le système international ressemble à une table de billard.
 
 ## Comment le système étatique européen est-il devenu notre système mondial actuel ?
+
+Le système étatique européen a évolué pour devenir notre système mondial actuel. Certaines dates sont donc importantes pour les relations internationales :
+
+| Années | Événements |
+| --- | --- |
+| 1648 | Traité de Westphalie |
+| 1815 | Congrès de Vienne |
+| 1919 | Congrès de Versailles |
+| 1945 | Conférence de Yalta et Postdam |
+
+> Pour comprendre l'évolution du système international actuel, il est crucial de considérer plusieurs événements historiques clés. En 1648, le Traité de Westphalie mit fin à la guerre de Trente Ans, établissant les principes de souveraineté étatique et de non-ingérence, posant ainsi les bases du système d'États modernes. Le Congrès de Vienne en 1815, après les guerres napoléoniennes, réorganisa l'Europe et instaura un équilibre des pouvoirs pour maintenir la paix. Le Congrès de Versailles en 1919, suivant la Première Guerre mondiale, redessina les frontières et créa la Société des Nations, visant à prévenir de futurs conflits. Enfin, les conférences de Yalta et de Potsdam en 1945, à la fin de la Seconde Guerre mondiale, réorganisèrent le monde et établirent les bases des Nations Unies, marquant ainsi le début de l'ordre mondial contemporain.
+
+Il est nécessaire de considérer la guerre et la paix comme un continuum, une approche gradualiste, une mobilité pendulaire en fonction de l’intensité et de l’ampleur de la dislocation de l’ordre international.
+
+Le pendule d'Adam Watson (École anglaise des Relations Internationales) :
+![Le pendule d'Adam Watson](Images/le_pendule_d'Adam_Watson.png "Le pendule d'Adam Watson")
+
+> Le pendule d'Adam Watson est une métaphore développée par l'historien et théoricien des relations internationales Adam Watson, qui appartient à l'École anglaise des Relations Internationales. Cette métaphore décrit le mouvement oscillatoire entre deux pôles dans les systèmes internationaux : l'anarchie et la hiérarchie.
+>
+> Selon Watson, les systèmes internationaux ne sont jamais totalement anarchiques ni entièrement hiérarchiques ; ils oscillent entre ces deux extrêmes. L'anarchie représente un système où les États sont indépendants et égaux, sans autorité centrale, tandis que la hiérarchie décrit un système où certains États exercent une domination ou une influence significative sur les autres.
+>
+> Cette oscillation peut être influencée par divers facteurs, tels que les changements dans la distribution du pouvoir, les alliances, les guerres, les traités, et les institutions internationales. Le "pendule" de Watson aide à comprendre comment les relations internationales évoluent avec le temps et comment les dynamiques de pouvoir et d'influence entre les États peuvent changer en fonction des circonstances historiques et politiques.
