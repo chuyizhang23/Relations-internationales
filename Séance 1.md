@@ -94,3 +94,31 @@ Le pendule d'Adam Watson (École anglaise des Relations Internationales) :
 > Selon Watson, les systèmes internationaux ne sont jamais totalement anarchiques ni entièrement hiérarchiques ; ils oscillent entre ces deux extrêmes. L'anarchie représente un système où les États sont indépendants et égaux, sans autorité centrale, tandis que la hiérarchie décrit un système où certains États exercent une domination ou une influence significative sur les autres.
 >
 > Cette oscillation peut être influencée par divers facteurs, tels que les changements dans la distribution du pouvoir, les alliances, les guerres, les traités, et les institutions internationales. Le "pendule" de Watson aide à comprendre comment les relations internationales évoluent avec le temps et comment les dynamiques de pouvoir et d'influence entre les États peuvent changer en fonction des circonstances historiques et politiques.
+
+### Les traités de Westphalie (1648)
+
+Les traités de Westphalie, qui mettent fin à ==la guerre de Trente Ans==, entraînent avec eux la reconnaissance de la souveraineté des États, au détriment du pouvoir impérial, et donnent naissance, dans une certaine mesure, au système d'équilibre européen.
+
+> La guerre de Trente Ans est un conflit majeur qui a ravagé l'Europe centrale entre 1618 et 1648. Elle a été l'un des plus destructeurs et des plus complexes conflits de l'histoire européenne, impliquant de nombreuses nations et ayant des ramifications politiques, religieuses et territoriales considérables.
+>
+> La guerre de Trente Ans a été déclenchée principalement par des tensions religieuses entre catholiques et protestants, ainsi que par des rivalités dynastiques et territoriales. Elle a commencé en 1618 lorsque des nobles protestants tchèques ont défenestré les représentants de l'empereur catholique du Saint-Empire romain germanique à Prague, un événement connu sous le nom de Défenestration de Prague.
+>
+> Le conflit s'est rapidement étendu à travers l'Europe, impliquant de nombreux États et pouvoirs régionaux, y compris l'Empire espagnol, la France, la Suède, le Danemark, et les Provinces-Unies (Pays-Bas). Il a été caractérisé par des batailles féroces, des sièges prolongés, et des dévastations généralisées, y compris des famines et des épidémies.
+>
+> La guerre de Trente Ans a pris fin en 1648 avec les traités de Westphalie, qui ont établi de nouveaux principes de souveraineté étatique et de relations internationales en Europe, marquant la fin de l'âge de la religion en tant que principal moteur des conflits européens et inaugurant une ère de diplomatie basée sur l'équilibre des pouvoirs.
+
+La Westphalie est un traité communément considéré comme le premier accord international garantissant la souveraineté des États, avec des promesses de non-intervention entre eux et de séparation entre les mondes politique et religieux. La Westphalie permet à l’État moderne de compléter les points essentiels à son existence indépendante, avec des monopoles sur la violence légitime, les normes juridiques et les impôts.
+
+> Les traités de Westphalie, signés en 1648 à Münster et à Osnabrück, mettent fin à la guerre de Trente Ans en Europe. Ils comprennent plusieurs accords qui ont des implications importantes pour la structure politique et religieuse de l'Europe. Voici quelques-uns de leurs principaux points :
+>
+> 1. Reconnaissance de l'indépendance des Provinces-Unies (Pays-Bas) vis-à-vis de l'Espagne.
+> 2. Reconnaissance de l'indépendance de la Confédération suisse vis-à-vis du Saint Empire romain germanique.
+> 3. Confirmation du principe de cuius regio, eius religio, permettant aux princes de choisir la religion de leur territoire.
+> 4. Réorganisation du Saint Empire romain germanique en une mosaïque de territoires souverains, entraînant un affaiblissement du pouvoir impérial.
+> 5. Établissement du concept de l'équilibre des pouvoirs en Europe, où aucune nation ne devrait dominer toutes les autres.
+> 6. Reconnaissance du calvinisme comme une religion légitime.
+> 7. Réglementation de la question des otages et des garanties de paix.
+>
+> Ces traités ont eu un impact durable sur la géopolitique européenne, contribuant à la consolidation d'un ordre international basé sur la souveraineté des États et l'équilibre des pouvoirs.
+
+La Paix de Westphalie a inauguré le système européen des États et a ensuite défini la majorité des puissances nationales en Occident.
