@@ -71,7 +71,7 @@ Le système d’États que nous connaissons aujourd’hui est le résultat de la
 
 Le système international est un système d'anarchie ; il n'y a pas de gouvernement mondial au-dessus des États. Ce système est formé d'États et d'acteurs transnationaux, comme les entreprises multinationales, les organisations non gouvernementales (ONG) et les organisations internationales (OI). Le système international ressemble à une table de billard.
 
-## Comment le système étatique européen est-il devenu notre système mondial actuel ?
+## Création du système d'État européen
 
 Le système étatique européen a évolué pour devenir notre système mondial actuel. Certaines dates sont donc importantes pour les relations internationales :
 
