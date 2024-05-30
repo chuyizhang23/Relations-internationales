@@ -122,3 +122,91 @@ La Westphalie est un traité communément considéré comme le premier accord in
 > Ces traités ont eu un impact durable sur la géopolitique européenne, contribuant à la consolidation d'un ordre international basé sur la souveraineté des États et l'équilibre des pouvoirs.
 
 La Paix de Westphalie a inauguré le système européen des États et a ensuite défini la majorité des puissances nationales en Occident.
+
+### La tentative hégémonique des Habsbourg
+
+Le Saint Empire tente de réaliser sa unité, mais il est incapable de rassembler des forces pour lutter contre la France et la Suède. Après des réunions infructueuses en 1643, 1644 et 1645, le traité de paix de Westphalie fut défini en 1648.
+
+Les plus grands bénéficiaires en Westphalie, la France et la Suède, parviennent à dissoudre le Saint-Empire romain germanique et à atténuer autant que possible le pouvoir de la famille Habsbourg.
+
+*Comment la France et la Suède ont-elles bénéficié de la Westphalie ?*
+
+> Les traités de Westphalie ont considérablement bénéficié à la France et à la Suède. La France a acquis des territoires stratégiques, notamment l'Alsace, renforçant ainsi ses frontières orientales et affaiblissant les Habsbourg. Ces gains territoriaux, combinés à la reconnaissance de la souveraineté des États, ont permis à la France d'accroître son influence en Europe et de s'affirmer comme une puissance dominante.
+>
+> La Suède, quant à elle, a obtenu des territoires importants en Allemagne, tels que la Poméranie occidentale, Wismar, Brême et Verden, consolidant ainsi sa position en tant que puissance majeure dans la région de la mer Baltique. De plus, en obtenant des sièges au sein du Conseil de l'Empire, la Suède a pu participer activement aux décisions politiques du Saint-Empire romain germanique, renforçant sa reconnaissance internationale et son influence politique en Europe.
+
+*Qu'est-ce que les Habsbourg ?*
+
+> Les Habsbourg étaient une dynastie européenne influente qui a dominé une grande partie de l'Europe centrale et occidentale pendant plusieurs siècles. Ils ont régné sur le Saint-Empire romain germanique, l'Autriche, l'Espagne et plusieurs autres territoires. Leur pouvoir a culminé aux XVIe et XVIIe siècles, lorsqu'ils contrôlaient des territoires vastes et variés allant de l'Europe centrale à l'Amérique latine. Les Habsbourg étaient connus pour leurs alliances matrimoniales stratégiques, qui ont renforcé leur influence politique et territoriale à travers l'Europe.
+
+![Habsburg domains in 1700](Images/Habsburg_domains_in_1700.jpg "Habsburg domains in 1700")
+
+L'ordre des Habsbourg:
+
+1. L’État français est devenu l’animateur et le leader d’une faible coalition anti-hégémonique;
+
+   > La coalition anti-hégémonique dirigée par la France pendant le XVIIe siècle comprenait principalement des États européens préoccupés par l'expansionnisme des Habsbourg. Parmi ses membres figuraient la Suède, les Provinces-Unies (Pays-Bas) et d'autres États allemands et européens, souvent engagés dans des conflits territoriaux ou religieux avec les Habsbourg. Ensemble, ils cherchaient à affaiblir la domination des Habsbourg en Europe et à préserver un équilibre des pouvoirs sur le continent. En revanche, les principaux alliés des Habsbourg étaient l'Espagne, qui était le cœur de leur pouvoir en Europe occidentale, et le Saint-Empire romain germanique, dirigé par la maison des Habsbourg et soutenant son autorité impériale en Europe centrale.
+
+2. France, la plus grande nation catholique, soutien les protestants;
+
+   > Au XVIIe siècle, la France, alors dirigée par Louis XIV, a adopté une politique de soutien aux protestants dans le but de contrer l'expansionnisme des Habsbourg et de préserver son propre équilibre de pouvoir en Europe. Cette décision était motivée par des considérations politiques et géopolitiques plutôt que par des motifs religieux. En soutenant les protestants, qui étaient souvent en conflit avec les Habsbourg, la France pouvait affaiblir son principal rival en Europe et étendre son propre influence territoriale. De plus, en favorisant un certain équilibre entre les puissances catholiques et protestantes, la France espérait maintenir une stabilité relative sur le continent, favorisant ainsi ses propres intérêts politiques et territoriaux.
+
+3. L’accord de Westphalie était la Charte d’une Europe organisée en permanence sur la base d’un principe anti-hégémonique;
+
+4. La société européenne des États est née de la lutte entre les forces qui tendaient vers un ordre hégémonique et celles qui ont réussi à amener la nouvelle Europe vers l’extrémité du pendule d'Adam Watson, là où se situe l’indépendance.
+
+### Richelieu et l'alliance anti-hégémonique
+
+Au XVIe siècle, les Habsbourg adoptaient une vision hégémonique. Dans la première moitié du XVIIe siècle, l'État français cherche une autre conception grandiose, face aux Habsbourg fatigués et affaiblis : la conception anti-hégémonique. Cette conception attribuait à la France la gestion de la coalition anti-Habsbourg. Son principal architecte fut le premier ministre de Louis XIII : le cardinal Richelieu.
+
+> Armand Jean du Plessis, cardinal de Richelieu, était un homme d'État français du XVIIe siècle. Il a été l'un des principaux conseillers de Louis XIII et est devenu célèbre pour son rôle central dans la politique intérieure et extérieure de la France pendant son époque. Richelieu est surtout connu pour avoir consolidé le pouvoir royal aux dépens de la noblesse et pour avoir mené une politique étrangère visant à affaiblir les Habsbourg et à promouvoir les intérêts de la France en Europe. Il a également été un protecteur des arts et des lettres, contribuant à l'établissement de l'Académie française. Son influence politique et son pragmatisme ont laissé une marque indélébile sur l'histoire de la France et de l'Europe du XVIIe siècle.
+
+objectifs: raison d'État
+
+1. unifier la France sous un monarque absolu;
+2. détruire toute opposition efficace;
+3. la justification de toute politique, y compris le recours à la force et à la fraude.
+
+La coalition franco-protestante a coordonné et structuré les forces opposées à l'hégémonie des Habsbourg dans la chaotique première moitié du XVIIe siècle, avant qu'un nouvel ordre général ne soit négocié et mis en pratique.
+
+La guerre de Trente Ans a abouti à une solution anti-hégémonique qui a empêché la concentration de la puissance allemande dans un seul État, mais a permis une concentration de la puissance française. Le cardinal Richelieu avait la capacité stratégique d'empêcher ses plus grands rivaux, l'Espagne et l'Autriche, d'établir leur contrôle sur les territoires qui forment aujourd'hui l'Allemagne et l'Europe centrale. La guerre de Trente Ans ne prend fin qu'au début du long règne de Louis XIV et de son chancelier Mazarin. La France, dirigée par le cardinal Mazarin, souhaite obtenir du Congrès de Westphalie la sécurité de ses frontières du côté espagnol et du côté du Saint-Empire.
+
+Le rejet par les Habsbourg d'une raison d'État espagnole signifiait que les intérêts de l'État espagnol étaient sacrifiés au profit des buts et des intérêts de la famille Habsbourg. L’Espagne a payé le prix d’une politique étrangère fondée sur des principes généraux plutôt que sur les intérêts nationaux. La dévastation de l’Allemagne fut encore plus grave.
+
+> La politique étrangère des Habsbourg, en particulier celle menée par l'Espagne, était souvent motivée par les intérêts dynastiques plutôt que nationaux. Par exemple, durant la guerre de Trente Ans, l'Espagne a sacrifié ses ressources pour soutenir les buts de la famille Habsbourg, ce qui a entraîné des conséquences désastreuses pour l'Espagne, y compris des difficultés économiques et des pertes humaines.
+
+## Le principal d'équilibre
+
+LEÇON NUMÉRO 01 : Au sein d’un système international, les principes ne sont pas si importants. il est nécessaire d’observer l’équilibre des pouvoirs entre les puissances. Si une puissance commence à devenir hégémonique, il est nécessaire que les autres puissances plus faibles créent un réseau d’alliances contre la puissance montante. Ce mécanisme est dû au dilemme de sécurité. (John Herz)
+
+> John H. Herz était un politologue américain, né en 1908 et décédé en 2005, connu pour ses contributions à la théorie des relations internationales. Il est notamment célèbre pour avoir développé le concept de "sécurité collective" dans son ouvrage "Political Realism and Political Idealism" publié en 1951. Herz a également étudié les aspects psychologiques et perceptifs des relations internationales, explorant comment les perceptions des acteurs étatiques influencent leurs politiques étrangères et les relations entre les États. Ses travaux ont eu une influence significative sur le domaine des relations internationales et continuent d'être étudiés et discutés aujourd'hui.
+
+Le politologue Raymond Aron a expliqué le principe général de la politique d'équilibre :
+
+« Au plus haut niveau d'abstraction, la politique d'équilibre se réduit à la manœuvre destinée à empêcher un État d'accumuler des forces supérieures à celles de ses rivaux alliés. Chaque État, s'il veut sauvegarder l'équilibre, prendra position contre l'État ou la coalition qui semble capable de maintenir une telle supériorité. Il s'agit d'une règle générale valable pour tous les systèmes internationaux. »
+
+> Raymond Aron était un intellectuel français majeur du XXe siècle, dont les contributions dans les domaines de la philosophie politique et des relations internationales ont eu un impact durable. Sa pensée, marquée par un pragmatisme réaliste, a fait de lui un critique éminent de la politique étrangère française et un défenseur de la réalpolitik. Son œuvre la plus célèbre, "Paix et Guerre entre les Nations", publiée en 1962, explore les dynamiques des conflits internationaux et les tensions entre la puissance et la morale dans les affaires internationales. En tant que journaliste, Aron a également exercé une influence significative, contribuant à façonner le débat politique et intellectuel en France.
+
+Accords de Westphalie : légitimation d’une communauté d’États souverains, de nouvelles règles et institutions remplacent les anciennes, contribuant encore aujourd’hui à façonner le système international.
+
+> Avant les traités de Westphalie en 1648, les relations internationales en Europe étaient caractérisées par plusieurs éléments distincts :
+>
+> 1. **Système féodal** : Les relations étaient souvent régies par des liens féodaux, où les seigneurs et les vassaux avaient des obligations mutuelles de loyauté et de service. Les alliances étaient souvent personnelles et dynastiques plutôt que basées sur des États-nations.
+>
+> 2. **Pouvoirs impériaux et papaux** : L'Empire romain germanique, dirigé par l'empereur, jouait un rôle central en Europe, tout comme le pape qui avait une autorité spirituelle significative sur les royaumes chrétiens. Ces deux institutions influençaient fortement la politique européenne et pouvaient intervenir dans les affaires des différents royaumes.
+>
+> 3. **Absence de souveraineté étatique claire** : Les frontières étaient souvent floues et contestées, et l'idée moderne de souveraineté étatique n'existait pas encore pleinement. Les territoires changeaient fréquemment de mains à travers les mariages, les héritages et les guerres.
+>
+> 4. **Guerres de religion** : Les conflits religieux, notamment entre catholiques et protestants, étaient fréquents et influençaient fortement les relations internationales. Les alliances étaient souvent formées en fonction des affiliations religieuses plutôt que des intérêts nationaux.
+>
+> 5. **Alliances dynastiques** : Les mariages entre maisons royales jouaient un rôle crucial dans la formation d'alliances et de coalitions. Les dynasties régnaient sur des territoires dispersés, et les relations internationales étaient souvent une extension des intérêts familiaux.
+>
+> Les traités de Westphalie ont transformé ce paysage en établissant des principes de souveraineté étatique, où chaque État était reconnu comme ayant le droit de gouverner ses affaires sans ingérence extérieure, et en créant un cadre plus stable et juridique pour les relations internationales.
+
+1. L’équilibre des pouvoirs;
+2. le droit international;
+3. la diplomatie;
+4. la guerre;
+5. les grandes puissances.
+
+Jusqu’au XXe siècle, les normes établies en Westphalie déterminaient la logique de la souveraineté mondiale.
